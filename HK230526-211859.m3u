@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1综合频道
+http://113.207.84.197/session/3221082e-fc76-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8?token=aa6dcafc0222b25bb6212aa270fb5edf_1685268408_1685268408
+#EXTINF:-1 ,CCTV2财经频道
+http://113.207.84.196/session/7dac7666-fc76-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8?token=99ca26e6844bb1cae323ee1932c04fb6_1685268535_1685268535
+#EXTINF:-1 ,CCTV3综艺频道
+http://113.207.84.197/session/ccdcbfac-fc76-11ed-b748-5254006225bb$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8?token=cc658f1fe47e367a6d5904f9821a0188_1685268668_1685268668
+#EXTINF:-1 ,CCTV4国际频道
+http://113.207.84.196/session/2c1d91e4-fc77-11ed-b748-5254006225bb$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8?token=65700c1b7a07d806f786d00b4b99b5d9_1685268828_1685268828
+#EXTINF:-1 ,CCTV5体育频道
+http://113.207.84.196/session/631d08c8-fc77-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8?token=d86f9662dc8ff1c379821e2ffae1693b_1685268920_1685268920
+#EXTINF:-1 ,CCTV6电影频道
+http://113.207.84.196/session/1f968eba-fc74-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8?token=ecc8f2631e9d17ac4d97150f7ae3c344_1685267517_1685267517
+#EXTINF:-1 ,CCTV7军事农业频道
+http://113.207.84.196/session/caa8ac22-fc77-11ed-8640-5254006225bb$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8?token=a2d9cd0c3c0af2353bd238a60ab5492d_1685269094_1685269094
+#EXTINF:-1 ,CCTV8电视剧频道
+http://113.207.84.196/session/2c0d873a-fc78-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8?token=2c84b8d8260bca0189e73cf7c30bf79b_1685269257_1685269257
+#EXTINF:-1 ,CCTV9纪录频道
+http://113.207.84.197/session/6720203a-fc78-11ed-a83c-525400dfb345$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8?token=5370d1360fcfa228bd7f2537807e80f2_1685269357_1685269357
+#EXTINF:-1 ,CCTV10科学教育频道
+http://113.207.84.197/session/a1b9c58e-fc78-11ed-85a4-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8?token=cfa1c832139ff1709878497067756427_1685269455_1685269455
+#EXTINF:-1 ,CCTV11戏曲频道
+http://113.207.84.196/session/d8fa8c22-fc78-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8?token=e6ca0144c9fb1bbf3593023f0d457abd_1685269546_1685269546
+#EXTINF:-1 ,CCTV12社会与法频道
+http://113.207.84.197/session/4bd49b52-fc79-11ed-85a4-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8?token=88e881cfd238189564da2a480ab47ec2_1685269740_1685269740
+#EXTINF:-1 ,CCTV13新闻频道
+http://113.207.84.197/session/77b9d96c-fc79-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8?token=338fa72c580861d20074c4f98987f4f0_1685269814_1685269814
+#EXTINF:-1 ,CCTV14少儿频道
+http://113.207.84.196/session/a5e31da8-fc79-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8?token=f002e0df05010b3e442532a5ee4c63c0_1685269891_1685269891
+#EXTINF:-1 ,CCTV15音乐频道
+http://113.207.84.197/session/da75f478-fc79-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8?token=7bb00988ca7546beb552ebd707cca275_1685269980_1685269980
+#EXTINF:-1 ,纬来日本台
+https://pull-l3-cny.douyincdn.com/live/375d45c910dbcd9d7bb5da67230458fe.m3u8
